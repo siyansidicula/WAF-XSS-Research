@@ -93,10 +93,3 @@ Reason: Matched '<'
 
 The project successfully demonstrates how a simple WAF filter can detect and block suspicious input patterns.
 
-## Conclusion
-
-Basic character-based filtering helps identify risky inputs, but stronger security methods like input validation, output encoding, and security policies are required for real-world protection.
-
-## Author
-
-Cyan
